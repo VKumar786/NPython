@@ -1,1 +1,5 @@
-https://www.youtube.com/watch?v=0INvoK_T0cE&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=13&ab_channel=CodeWithHarry
+DO Whatever it take
+
+string method return new string 
+
+https://www.youtube.com/watch?v=XblLSduioJI&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=25&ab_channel=CodeWithHarry
