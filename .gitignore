@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+myenv/
+__pycache__/
+
+# PyCharm files
+.idea/
+
+# VS Code files
+.vscode/
+
+# Sublime Text files
+*.sublime-project
+*.sublime-workspace
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other IDE and editor files
+*.swp
+*.swo
+*.swn
+*.swm
+*.bak
+*.tmp
+*.log
+*.DS_Store
