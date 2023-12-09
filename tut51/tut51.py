@@ -8,7 +8,7 @@ arr = ["Snake", "Water", "Gun"]
 
 print("Option are")
 
-for el, idx in enumerate(arr):
+for idx, el in enumerate(arr):
     print(f"{idx+1}. {el}")
 
 x = int(input("Select One Option (1-3) :: ")) - 1
