@@ -3,6 +3,8 @@ venv/
 myenv/
 __pycache__/
 
+myEnv/
+
 # PyCharm files
 .idea/
 
