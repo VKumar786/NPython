@@ -5,8 +5,10 @@
 import pyttsx3
 engine = pyttsx3.init()
 
-arr = ["vishal", "viky", "arjun"]
+names = ["vishal", "viky", "arjun"]
 
-engine.say("Hello World!")
+for name in names:
+    engine.say(f"Shutouts to {name}")
+
 engine.runAndWait()
 engine.stop()
